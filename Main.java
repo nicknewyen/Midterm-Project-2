@@ -62,11 +62,11 @@ public class Main {
 		Main brute = new Main();
 		Random rand = new Random();
 		
-		int randomSum1 = rand.nextInt(200)-100;
-		int randomSum2 = rand.nextInt(200)-100;
-		int randomSum3 = rand.nextInt(200)-100;
-		int randomSum4 = rand.nextInt(200)-100;
-		int randomSum5 = rand.nextInt(200)-100;
+		int randomSum1 = rand.nextInt(400)-200;
+		int randomSum2 = rand.nextInt(400)-200;
+		int randomSum3 = rand.nextInt(400)-200;
+		int randomSum4 = rand.nextInt(400)-200;
+		int randomSum5 = rand.nextInt(400)-200;
 		
 		int array1[] = new int[100];
 		int array2[] = new int[100];
